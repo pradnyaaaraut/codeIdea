@@ -1,0 +1,2 @@
+# codeIdea
+Fun about programming 
